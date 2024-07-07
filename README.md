@@ -101,5 +101,14 @@ On Training Data: ReLU shows the lowest error rates, suggesting its effectivenes
 On Testing Data: The ReLU-based feature mapping might generalize better on the testing data, indicated by its lowest error rate in the graph.
 Conclusion
 
+
+
+# Note
+
+
+The project might have some error, I will try to fix the problems soon.
+
+
+
 Best Performing Function: ReLU function generalizes best followed by sigmoid, identity, and sinusoidal functions.
 Feature Importance: Adding more features helps significantly if L is low, but excessive features can lead to overfitting.
